@@ -23,6 +23,7 @@ Supported Datasets:
 ## Environment Setup
 ```bash
 pip install -r requirements.txt
+```
 
 中文版：
 # Modern-CNN-Architectures
@@ -49,3 +50,4 @@ pip install -r requirements.txt
 ## 环境配置
 ```bash
 pip install -r requirements.txt
+```
